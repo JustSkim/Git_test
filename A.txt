@@ -1,2 +1,3 @@
 now start
 second is in dev
+Creating a new branch is quick AND simple.
